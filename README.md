@@ -1,2 +1,17 @@
-# password-strength-checker
-A Python-based password strength checker that analyzes password security using multiple validation rules.
+# Password Strength Checker
+
+A simple Python project that checks password strength based on:
+
+- Password length
+- Uppercase letters
+- Lowercase letters
+- Numbers
+- Special characters
+
+## Technologies Used
+- Python
+
+## How to Run
+
+```bash
+python password_checker.py
